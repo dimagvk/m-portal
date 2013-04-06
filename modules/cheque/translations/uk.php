@@ -1,0 +1,43 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+
+$_MODULE['<{cheque}prestashop>cheque_1fddeba3cee2a70b37a20889e124948a'] = 'Для коректної роботи модуля потрібно заповнити поле \\"Для оплати\\" і поле з адресою';
+$_MODULE['<{cheque}prestashop>cheque_c888438d14855d7d96a2724ee9c306bd'] = 'Налаштування оновлено';
+$_MODULE['<{cheque}prestashop>cheque_5dd532f0a63d89c5af0243b74732f63c'] = 'Контактна інформація';
+$_MODULE['<{cheque}prestashop>cheque_75475839e69bef6ed57a8200a5a71d37'] = 'Для оплати';
+$_MODULE['<{cheque}prestashop>cheque_b17f3f4dcf653a5776792498a9b44d6a'] = 'Оновити налаштування';
+$_MODULE['<{cheque}prestashop>payment_execution_c42b053ef8c36f950ff37a0897d3a963'] = 'чек';
+$_MODULE['<{cheque}prestashop>payment_execution_6b3ef039e038a131d05bcd208a1b9799'] = 'Ви обрали оплату чеком.';
+$_MODULE['<{cheque}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Будь ласка, підтвердіть Ваше замовлення, клікнувши на кнопку підтвердження';
+$_MODULE['<{cheque}prestashop>payment_return_84cca8efe379645790938f55b701a1a4'] = 'для замовлення';
+$_MODULE['<{cheque}prestashop>payment_return_13f4ac6dc75b5829499cb9cf8b733071'] = 'Вам було відправлено E-mail з даною інформацією.';
+$_MODULE['<{cheque}prestashop>cheque_060bf2d587991d8f090a1309b285291c'] = 'Check';
+$_MODULE['<{cheque}prestashop>cheque_a0048063a9be52816b7fa7f17aa3a2b7'] = 'Необхідно заповнити поле \\"Для оплати\\"';
+$_MODULE['<{cheque}prestashop>cheque_4b5e20a521d31cc44b9690bd35eaacfc'] = 'Необхідно вказати адресу.';
+$_MODULE['<{cheque}prestashop>payment_execution_83aa0e5744c86bf2d9d006319db14839'] = 'Оплата чеком';
+$_MODULE['<{cheque}prestashop>payment_execution_c884ed19483d45970c5bf23a681e2dd2'] = 'Ось коротке зведення по Вашому замовленню:';
+$_MODULE['<{cheque}prestashop>payment_a5967aadef7d23b5027d46e107faf6d0'] = 'Оплата чеком';
+$_MODULE['<{cheque}prestashop>payment_return_e4ee6e0eac588fe2611cc6fd195828af'] = 'Будь ласка, надішліть нам чек з:';
+$_MODULE['<{cheque}prestashop>cheque_fa214007826415a21a8456e3e09f999d'] = 'Ви впевнені, що хочете видалити цю інформацію?';
+$_MODULE['<{cheque}prestashop>cheque_4402acab1c8f90dcf4a31dc96833bd86'] = 'Для модуля не встановлено жодної валюти';
+$_MODULE['<{cheque}prestashop>validation_e2b7dec8fa4b498156dfee6e4c84b156'] = 'Метод оплати не доступний.';
+$_MODULE['<{cheque}prestashop>payment_execution_879f6b8877752685a966564d072f498f'] = 'Ваш Кошик пустий.';
+$_MODULE['<{cheque}prestashop>payment_execution_e2867a925cba382f1436d1834bb52a1c'] = 'Загальна кількість товарів Вашого замовлення';
+$_MODULE['<{cheque}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'Оберіть одну з наступних:';
+$_MODULE['<{cheque}prestashop>payment_execution_504be670f962fa7630863857a0085632'] = 'Власник чека та його дані будуть вказані на наступній сторінці.';
+$_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Підтверджую замовлення';
+$_MODULE['<{cheque}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Інші способи оплати';
+$_MODULE['<{cheque}prestashop>payment_30bee0e9549e97b2f65f8fd8fc5948be'] = 'Оплата чеком (збільшує час обробки замовлення)';
+$_MODULE['<{cheque}prestashop>payment_return_c5a6826dd3b059e32a3fa1ae029179de'] = 'на';
+$_MODULE['<{cheque}prestashop>payment_return_ffd2478830ca2f519f7fe7ee259d4b96'] = 'Ваше замовлення буде Вам відправлено після отримання нами оплати.';
+$_MODULE['<{cheque}prestashop>cheque_dd7bf230fde8d4836917806aff6a6b27'] = 'Адреса';
+$_MODULE['<{cheque}prestashop>payment_execution_f1d3b424cd68795ecaa552883759aceb'] = 'Зведення по замовленню';
+$_MODULE['<{cheque}prestashop>payment_execution_1f87346a16cf80c372065de3c54c86d9'] = '(з податком)';
+$_MODULE['<{cheque}prestashop>payment_execution_2f1585fcd1150d6a7d6edbe3468a63f8'] = 'Ми приймаємо декілька валют при оплаті чеками.';
+$_MODULE['<{cheque}prestashop>payment_execution_c4309902a6192747d56f3539941acc49'] = 'Ми приймаємо наступну валюту при оплаті чеком:';
+$_MODULE['<{cheque}prestashop>payment_return_a35abd2d31d9e1da82599bc67e166506'] = 'на суму';
+$_MODULE['<{cheque}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'При виникненні питань або необхідності уточнень, будь ласка, звертайтесь в нашу';
+$_MODULE['<{cheque}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'службу підтримки';
+$_MODULE['<{cheque}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Повідомляємо Вас, що при обробці Вашого замовлення виникли деякі проблеми. Для уточнення деталей Ви можете звернутися в нашу';
